@@ -36,10 +36,11 @@ const WorkoutSchema = new Schema({
   }
 );
   
-// UserSchema.methods.coolifier = function() {
-// this.username = `${this.username}...the Coolest!`;
-// return this.username;
-// };
+// WorkoutSchema.virtual('totalDuration').get(() => {
+//   return this.exercises.reduce((total, exercise) => {
+//     return total + exercise.duration;
+//   }, 0); 
+// }); 
   
 
   
