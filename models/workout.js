@@ -36,10 +36,10 @@ const WorkoutSchema = new Schema({
   }
 );
   
-UserSchema.methods.coolifier = function() {
-this.username = `${this.username}...the Coolest!`;
-return this.username;
-};
+// UserSchema.methods.coolifier = function() {
+// this.username = `${this.username}...the Coolest!`;
+// return this.username;
+// };
   
 
   
