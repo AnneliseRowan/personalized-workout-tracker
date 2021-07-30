@@ -22,6 +22,6 @@ Annelise Rowan
 
 ## Preview
 
-![Homepage]()
-![Stats-Page]()
-![Add-Exercise-Page]()
+![Homepage](assets/homepage.png)
+![Stats-Page](assets/stats.png)
+![Add-Exercise-Page](assets/addingexercise.png)
