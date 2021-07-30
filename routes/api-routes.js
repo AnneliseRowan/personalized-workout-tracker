@@ -31,7 +31,6 @@ router.get('/api/workouts/range', (req, res) => {
             return {
                 
                 totalDuration: duration, 
-
                 ...workout.toObject()
             }
         })
